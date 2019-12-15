@@ -38,7 +38,8 @@ public class MyClass {
         System.out.println(familyMembersAges);
         
         // it was said to cast values to a string type
-        // if we want to print it... well... oke
+        // if we want to print it... hm... oke
+        // but aforemade works as well
         System.out.println();
         System.out.println(familyMembersAges.toString());
         
